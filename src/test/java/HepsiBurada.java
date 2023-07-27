@@ -27,8 +27,8 @@ public class HepsiBurada {
         search.click();
         MobileElement searchtext=driver.findElement(By.className("android.widget.EditText"));
         searchtext.sendKeys("karaca fincan takımı");
-        //deneme
-
+        //version1
+        //version2
 
 
 
